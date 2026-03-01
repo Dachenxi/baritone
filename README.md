@@ -57,6 +57,7 @@ Baritone is the pathfinding system used in [Impact](https://impactclient.net/) s
 
 [**Baritone Discord Server**](http://discord.gg/s6fRBAUpmr)
 
+
 **Quick download links:**
 
 | Forge                                                                                                         | Fabric                                                                                                        |
